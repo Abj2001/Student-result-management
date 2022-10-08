@@ -1,1 +1,1 @@
-# Student-result-management
+# back-ground_generator
